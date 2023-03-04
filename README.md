@@ -20,7 +20,7 @@ This work shows that deep speech quality predictors can be vulnerable to adversa
 
 ## Run
 ### Stage 1- Adversarial perturbations 
-- change data paths, onnx model path,s ave model path, output path
+- change data paths, onnx model path, save model path, output path
 - change score transform (in attack_modules.py)
 - run stage1_attack.py
 
